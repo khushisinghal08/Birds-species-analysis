@@ -15,8 +15,11 @@ Understand bird distribution across ecosystems
 Identify patterns in bird activity
 Analyze the impact of factors like temperature, wind, and disturbance
 Generate insights that can be useful for conservation and land management
+
 📁 Dataset
+
 The dataset contains 17,000+ bird observations
+
 Includes details like:
 Species name
 Ecosystem (forest/grassland)
@@ -24,22 +27,27 @@ Date and time
 Temperature, humidity, wind
 Observation method
 Disturbance level
+
 🛠 Tools & Technologies Used
+
 Python – Data cleaning and preprocessing
 SQL (MySQL) – Data analysis and querying
 Power BI – Dashboard creation and visualization
+
 🔄 Project Workflow
 1. Data Cleaning (Python)
 Handled missing values
 Fixed data types (especially date and time)
 Removed inconsistencies
 Prepared a clean dataset for analysis
-2. Data Analysis (SQL)
+
+3. Data Analysis (SQL)
 Performed aggregations and filtering
 Found top species and observation trends
 Analyzed seasonal patterns
+
 Created queries for deeper insights
-3. Dashboard Creation (Power BI)
+5. Dashboard Creation (Power BI)
 
 Built interactive dashboards to present insights clearly:
 
@@ -49,28 +57,45 @@ Total Species
 At-Risk Species
 Monthly Trends
 Top Species
+
 📌 Dashboard 2 – Environmental Analysis
 Impact of temperature and wind
 Disturbance analysis
 Flyover behavior
 Observer contribution
+
 📌 Dashboard 3 – Insights & Recommendations
 Key findings summarized
 Actionable recommendations
+
 📊 Key Insights
+
 Bird activity is highest during summer season
+
 Forests support more diversity compared to grasslands
+
 Low wind and moderate temperature (20–25°C) lead to higher observations
+
 High disturbance areas show reduced bird activity
+
 💡 Recommendations
+
 Focus conservation efforts on forest ecosystems
+
 Minimize human disturbance in bird-active areas
+
 Monitor seasonal patterns for better planning
+
 Maintain stable environmental conditions for biodiversity
+
 🚀 What I Learned
+
 How to handle real-world messy data
+
 Writing SQL queries for analysis
+
 Designing clean and meaningful dashboards
+
 Turning data into insights and recommendations
 
 🔗 Project Link:
