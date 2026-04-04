@@ -105,7 +105,9 @@ https://github.com/khushisinghal08/Birds-species-analysis/blob/main/dashboard/bi
 Screenshots of Dashboard:
 
 https://github.com/khushisinghal08/Birds-species-analysis/blob/main/images/overview.png
+
 https://github.com/khushisinghal08/Birds-species-analysis/blob/main/images/Analysis.png
+
 https://github.com/khushisinghal08/Birds-species-analysis/blob/main/images/Insights.png
 
 📌 Final Note
